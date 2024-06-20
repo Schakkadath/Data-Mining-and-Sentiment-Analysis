@@ -1,0 +1,57 @@
+,state_name,Positive tweet counts,Negative tweet counts,Status,State,Party,State ID
+0,Arizona,29.0,39.0,Against,Arizona,D,AZ
+1,Florida,29.0,34.0,Against,Florida,R,FL
+2,Georgia,20.0,35.0,Against,Georgia,D,GA
+3,,,,,Iowa,R,IA
+4,,,,,Maine 2nd District,R,ME2
+5,Michigan,10.0,18.0,Against,Michigan,D,MI
+6,Minnesota,17.0,23.0,Against,Minnesota,D,MN
+7,,,,,Nebraska 2nd District,D,NE2
+8,Nevada,34.0,41.0,Against,Nevada,D,NV
+9,New Hampshire,1.0,7.0,Against,New Hampshire,D,NH
+10,North Carolina,8.0,22.0,Against,North Carolina,R,NC
+11,Ohio,12.0,26.0,Against,Ohio,R,OH
+12,Pennsylvania,17.0,38.0,Against,Pennsylvania,D,PA
+13,Texas,59.0,121.0,Against,Texas,R,TX
+14,Wisconsin,8.0,8.0,For,Wisconsin,D,WI
+15,Alabama,4.0,7.0,Against,Alabama,R,AL
+16,,,,,Alaska,R,AK
+17,Arkansas,3.0,9.0,Against,Arkansas,R,AR
+18,California,36.0,57.0,Against,California,D,CA
+19,Colorado,13.0,22.0,Against,Colorado,D,CO
+20,Connecticut,3.0,7.0,Against,Connecticut,D,CT
+21,,,,,Delaware,D,DE
+22,District of Columbia,47.0,82.0,Against,District of Columbia,D,DC
+23,Hawaii,6.0,21.0,Against,Hawaii,D,HI
+24,Idaho,2.0,6.0,Against,Idaho,R,ID
+25,Illinois,30.0,36.0,Against,Illinois,D,IL
+26,Indiana,8.0,16.0,Against,Indiana,R,IN
+27,Kansas,9.0,8.0,For,Kansas,R,KS
+28,Kentucky,2.0,6.0,Against,Kentucky,R,KY
+29,Louisiana,3.0,2.0,For,Louisiana,R,LA
+30,Maine,7.0,4.0,For,Maine,D,ME
+31,,,,,Maine 1st District,D,ME1
+32,Maryland,9.0,14.0,Against,Maryland,D,MD
+33,Massachusetts,17.0,26.0,Against,Massachusetts,D,MA
+34,Mississippi,2.0,5.0,Against,Mississippi,R,MS
+35,Missouri,11.0,28.0,Against,Missouri,R,MO
+36,Montana,2.0,3.0,Against,Montana,R,MT
+37,Nebraska,3.0,9.0,Against,Nebraska,R,NE
+38,,,,,Nebraska 1st District,R,NE1
+39,,,,,Nebraska 3rd District,R,NE3
+40,New Jersey,38.0,42.0,Against,New Jersey,D,NJ
+41,New Mexico,17.0,12.0,For,New Mexico,D,NM
+42,New York,188.0,253.0,Against,New York,D,NY
+43,North Dakota,1.0,11.0,Against,North Dakota,R,ND
+44,Oklahoma,13.0,18.0,Against,Oklahoma,R,OK
+45,Oregon,14.0,17.0,Against,Oregon,D,OR
+46,Rhode Island,9.0,34.0,Against,Rhode Island,D,RI
+47,South Carolina,1.0,3.0,Against,South Carolina,R,SC
+48,South Dakota,2.0,5.0,Against,South Dakota,R,SD
+49,Tennessee,19.0,27.0,Against,Tennessee,R,TN
+50,Utah,10.0,5.0,For,Utah,R,UT
+51,,,,,Vermont,D,VT
+52,Virginia,54.0,105.0,Against,Virginia,D,VA
+53,Washington,12.0,26.0,Against,Washington,D,WA
+54,West Virginia,4.0,5.0,Against,West Virginia,R,WV
+55,,,,,Wyoming,R,WY
